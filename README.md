@@ -1,4 +1,4 @@
-### Hi There, I'm Ayatulllah Ahmed👋
+## Hi There, I'm Ayatulllah Ahmed👋
 
 Business Student | Data Analyst | Aspiring Financial Consultant
 
