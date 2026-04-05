@@ -59,7 +59,7 @@ I’m passionate about turning raw data into meaningful insights that drive real
 
 ## 📫 Connect With Me
 
-* GitHub: [https://github.com/AyatullahSallam](https://github.com/yourusername)
+* GitHub: (https://github.com/ayatullahsallam)
 * LinkedIn: www.linkedin.com/in/ayatullah-ahmed-148662359
 * Email: ayatullahsallam@gmail.com
 ---
